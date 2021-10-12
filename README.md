@@ -61,5 +61,5 @@ Lösen Sie folgende Teilaufgaben, um die blaue Spirale in den Raum zu zeichnen.
 1. Bouncer muss überprüfen und sich merken, wie breit (und hoch) der Raum ist.
 2. Bouncer muss die Spirale in der linken unteren Ecke beginnen und entgegen dem Uhrzeigersinn die Spirale malen
 3. Zwischen den Linien der Spiralen soll immer Platz der Größe von einem Feld freibleiben (weiß).
-4. Sobald Bouncer aus Platzgründen die Spirale nicht mehr weitermalen kann, färbt Bouncer das Feld auf dem Bouncer steht rot.
+4. Sobald Bouncer aus Platzgründen die Spirale nicht mehr weitermalen kann, färbt Bouncer das Feld auf dem Bouncer steht rot und bleibt stehen.
 
